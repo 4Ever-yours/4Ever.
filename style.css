@@ -23,9 +23,7 @@
     top: 50px;
  
   }
-  .side.side.one {
-    display: none; 
-  }
+  
   #card p {
     padding-left: 0 !important; /* Eliminar el relleno a la izquierda en dispositivos móviles */
     padding-right: 0 !important; /* Eliminar el relleno a la derecha en dispositivos móviles */
